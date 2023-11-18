@@ -73,3 +73,13 @@ h1:focus {
     font-size: 55px;
     font-family: monospace;
 }
+
+.font-SubText {
+    color: white;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+.subTest-class {
+   padding: 15px;
+}
