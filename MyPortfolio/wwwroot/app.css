@@ -1,6 +1,7 @@
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     background-image: url('../images/bg-prg-image.jpg') !important;
+    /*background-image: url('../images/giphy.gif') !important;*/
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -53,16 +54,7 @@ h1:focus {
 .darker-border-checkbox.form-check-input {
     border-color: #929292;
 }
-/*
-.page-background-class {
-    background-image: url('../images/bg-prg-image.jpg');
-    width: 500px;
-    height: 340px;
-    color: white;
-    font-weight: 500;
-    font-size: 28px;
-    padding: 15px;
-}*/
+
 .font-colorh1 {
     color: white;
 }
@@ -82,4 +74,13 @@ h1:focus {
 
 .subTest-class {
    padding: 15px;
+}
+
+img {
+    border-radius: 32%;
+    padding: 13px
+}
+
+.about-css {
+    background-image: url('images/giphy.gif');
 }
